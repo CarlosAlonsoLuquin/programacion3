@@ -10,6 +10,8 @@ public class prueba1 {
 		System.out.println("adios");
 		
 		System.out.println("apocosi");
+		
+		System.out.println("apocosi");
 
 	}
 
